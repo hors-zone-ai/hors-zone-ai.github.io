@@ -1,0 +1,30 @@
+# Hors Zone AI
+
+> Association loi 1901 (French non-profit, RNA W751286221, Paris) for developers and computer science students. If you can't afford Claude Code or Codex, the association pays for it, in your name, on application. Website in French and English.
+
+Key facts:
+
+- Sponsorship programme: apply with your first name, last name, email, GitHub and a motivation letter of 500 words max. Reply within 48 hours, even if it's a no. Free for the applicant.
+- Rules: an account in the person's name, never shared or resold, official plans only. Access lasts while the person codes on the association's projects, then goes to someone else.
+- Apps in progress: Humanizer (reworks a text written with AI so it sounds like you) and Entretien blanc (mock interviews for internships, work-study programmes and student jobs).
+- Run by volunteers, funded by donations. Not affiliated with Anthropic or OpenAI.
+- Contact: admin@horszone.ai
+
+## Pages (français)
+
+- [Accueil](https://hors-zone-ai.github.io/site/): l'association, comment ça marche, nos apps, transparence, questions
+- [Le programme de sponsoring](https://hors-zone-ai.github.io/site/services.html): l'outil au choix, les règles, le formulaire de candidature
+- [Nous rejoindre](https://hors-zone-ai.github.io/site/rejoindre.html): coder avec nous, ou proposer le besoin d'une structure
+- [Mentions légales et données](https://hors-zone-ai.github.io/site/mentions-legales.html)
+
+## Pages (English)
+
+- [Home](https://hors-zone-ai.github.io/site/en/): the association, how it works, our apps, transparency, FAQ
+- [Sponsorship programme](https://hors-zone-ai.github.io/site/en/services.html): your tool, the rules, the application form
+- [Join us](https://hors-zone-ai.github.io/site/en/join.html): code with us, or tell us what your organisation needs
+- [Legal notice and data](https://hors-zone-ai.github.io/site/en/legal.html)
+
+## Optional
+
+- [Source code of the website](https://github.com/hors-zone-ai/site)
+- [Hors Zone AI on X](https://x.com/Hors_Zone_AI)

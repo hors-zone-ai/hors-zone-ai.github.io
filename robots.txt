@@ -1,0 +1,5 @@
+# Hors Zone AI: all robots are welcome, search engines and AI included.
+User-agent: *
+Allow: /
+
+Sitemap: https://hors-zone-ai.github.io/site/sitemap.xml
